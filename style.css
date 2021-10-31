@@ -1,0 +1,21 @@
+body{
+    background-color: wheat;
+}
+table{
+    border: 5px solid blue;
+    background-color: greenyellow;
+    width: 800px;
+    height: 300px;
+    margin: auto;
+}
+.gg{
+    background-color: forestgreen;
+}
+.rr{
+    background-color: green;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 1000px;
+}
